@@ -1,0 +1,23 @@
+# Vagrant and VirtualBox
+.vagrant/
+*.box
+
+# Logs
+LOGS/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Swap files
+*.swp
+*.swo
+
+# SSH keys (if any are generated)
+*.pem
+*.pub
+
+# Backup files
+*~
+*.bak 
